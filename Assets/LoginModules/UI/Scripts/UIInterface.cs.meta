@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: bfdf6b9de657319408c7423c68d572ab
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pri_button: {fileID: 1642655884673382, guid: 321938b4f0616c34384548a271f8e36e,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

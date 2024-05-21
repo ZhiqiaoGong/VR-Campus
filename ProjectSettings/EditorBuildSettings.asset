@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/login.unity
+    guid: 56c44c1fcdd89204c9f6d99107edca7b
+  - enabled: 0
+    path: Assets/Scenes/VRCampus.unity
+    guid: 5e46421c98af780479ad4f7282b1544c
+  m_configObjects: {}
