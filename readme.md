@@ -1,3 +1,13 @@
+# Campus Roaming Experience System based on VR
+Used Unity and panorama video to build a virtual campus roaming system without 3D modeling, so that the user wearing a VR headset can walk freely in the scene.
+
+Users only need to use the panoramic camera to record the video of the scene, and upload it to the system, then they can roam around the place.
+
+A whole new interaction method for the current applications and systems on the market.
+
+Compared with the traditional campus promotional video, this system is more active, immersive and realistic, and also greatly increases the ease of use, which can be put into other fields such as children's education and tourism in the future.
+
+
 ### 管理端（web）
 
 **功能**
