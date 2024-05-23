@@ -7,6 +7,7 @@ A whole new interaction method for the current applications and systems on the m
 
 Compared with the traditional campus promotional video, this system is more active, immersive and realistic, and also greatly increases the ease of use, which can be put into other fields such as children's education and tourism in the future.
 
+Details can be viewed here： https://1141283192.wixsite.com/zqgong/campusvr
 
 ### 管理端（web）
 
